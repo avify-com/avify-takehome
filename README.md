@@ -76,3 +76,12 @@ An existing website that shows this data is here: https://gridwatch.co.uk/
    -  Link to the repository of the project.
    -  Any additional information you want to share with us.
 -  Github link to the project is required with the response email.
+
+## Testing
+
+🧪 Running Tests
+This project uses Jest and React Testing Library for testing.
+
+To run the tests:
+
+npm test

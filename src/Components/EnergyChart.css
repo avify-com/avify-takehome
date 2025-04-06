@@ -1,0 +1,19 @@
+.energy-mix {
+    max-width: 500px;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    border-radius: 10px;
+    background-color: #f2f4f7;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  
+  .energy-mix ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .energy-mix li {
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+  }
+  
